@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SangeethaBz
-- 👀 I’m interested in React and Blockchain
+- 👀 I’m interested in React,Node and Blockchain
 - 🌱 I’m currently learning so much
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 
